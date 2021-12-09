@@ -1,0 +1,17 @@
+property_type_id,apt_house,num_bedrooms,kitchen,shared
+R1,apartment,1,Y,Y
+R10,house,1,Y,N
+R11,house,1,N,Y
+R12,house,1,N,N
+R13,house,2,Y,Y
+R14,house,2,Y,N
+R15,house,2,N,Y
+R16,house,2,N,N
+R2,apartment,1,Y,N
+R3,apartment,1,N,Y
+R4,apartment,1,N,N
+R5,apartment,2,Y,Y
+R6,apartment,2,Y,N
+R7,apartment,2,N,Y
+R8,apartment,2,N,N
+R9,house,1,Y,Y
